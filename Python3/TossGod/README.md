@@ -24,8 +24,14 @@ _Outcome with 100 trials_
 
 ## Requirements 🛠
 
-The programs runs entirely on Python 3❤. No extra dependencies !
+The programs runs entirely on Python 3 ❤. No extra dependencies !
 
 _Uses built-in Python3 random module_  
 _Runtime tested in Python 3.9.1_
 
+## Connect with Me 📱
+[Linked In](https://www.linkedin.com/in/neeraj-s-kumar-938161129)  
+
+
+_Other Projects:_  
+[Music Recording Company System In Java](https://github.com/neerajsk911/MusicRecordingCompany)
