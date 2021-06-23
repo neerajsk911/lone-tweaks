@@ -1,3 +1,3 @@
 requests
 telebot
-pytelegrambotapi
+pytelegrambotapi==3.7.7

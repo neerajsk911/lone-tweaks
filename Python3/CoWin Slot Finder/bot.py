@@ -1,13 +1,11 @@
 from main import SlotFinder
 import requests
 import telebot
-import pyperclip
 
 API_KEY="1898794612:AAGFGfq805ICAZ7Nwr5H3omG9Vlk2oNFwME"
 
 bot=telebot.TeleBot(API_KEY)
 request_uri="https://api.telegram.org/bot"+API_KEY+"/getUpdates"
-pyperclip.copy(request_uri)
 response_json=requests.get(url=request_uri)
 print(response_json.json())
 
