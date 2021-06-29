@@ -2,7 +2,7 @@ from main import SlotFinder
 import requests
 import telebot
 
-API_KEY="1898794612:AAGFGfq805ICAZ7Nwr5H3omG9Vlk2oNFwME"
+API_KEY="API_KEY_HERE"
 
 bot=telebot.TeleBot(API_KEY)
 request_uri="https://api.telegram.org/bot"+API_KEY+"/getUpdates"
